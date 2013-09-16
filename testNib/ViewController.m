@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import "testNibView.h"
 
 @interface ViewController ()
 
@@ -18,6 +19,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    [self.view addSubview:[[[NSBundle mainBundle] loadNibNamed:@"nibView" owner:nil options:nil] lastObject]];
 }
 
 - (void)didReceiveMemoryWarning
