@@ -1,0 +1,635 @@
+TtestNib
+v6
+r1
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Release-iphoneos/testNib.app/ResourceRules.plist
+cProcessPCH /var/folders/9b/vr6nbs1n61s6nb3gfb2vnqgc0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/testNib-Prefix-gxmvihxfjefwgzbtgazgvvkzszzt/testNib-Prefix.pch.pch testNib/testNib-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/9b/vr6nbs1n61s6nb3gfb2vnqgc0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/testNib-Prefix-fjmzhgedclozzfglxkenlqbwiyqk/testNib-Prefix.pch.pch testNib/testNib-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/AppDelegate.o /Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/main.o /Users/zhaojunwei/localWork/testNib/testNib/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/ViewController.o /Users/zhaojunwei/localWork/testNib/testNib/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNibView.o /Users/zhaojunwei/localWork/testNib/testNib/testNibView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/main.o /Users/zhaojunwei/localWork/testNib/testNib/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/AppDelegate.o /Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/ViewController.o /Users/zhaojunwei/localWork/testNib/testNib/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNibView.o /Users/zhaojunwei/localWork/testNib/testNib/testNibView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNib normal armv7s
+cLd /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNib normal armv7
+cCreateUniversalBinary /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/testNib normal armv7\ armv7s
+cGenerateDSYMFile /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app.dSYM /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/testNib
+cCompileXIB /Users/zhaojunwei/localWork/testNib/testNib/en.lproj/ViewController.xib
+cCopyStringsFile /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/en.lproj/InfoPlist.strings testNib/en.lproj/InfoPlist.strings
+cCompileXIB /Users/zhaojunwei/localWork/testNib/testNib/nibView.xib
+cCompileAssetCatalog /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app /Users/zhaojunwei/localWork/testNib/testNib/Media.xcassets
+cProcessInfoPlistFile /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/Info.plist /Users/zhaojunwei/localWork/testNib/testNib/testNib-Info.plist
+cProcessProductPackaging /Users/zhaojunwei/Library/MobileDevice/Provisioning\ Profiles/72B4B5F8-A30C-4EF0-816A-0B124F6C9EDB.mobileprovision /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/embedded.mobileprovision
+cTouch /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib.xcent
+cCodeSign /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app
+cValidate /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk
+c00000000521BCCE10000000000000110
+t1377553633
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+c00000000523D3C7D0000000000000094
+t1379744893
+s148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+c00000000523D3C7D0000000000000096
+t1379744893
+s150
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/SDKSettings.plist
+c00000000523D3C7D000000000000036B
+t1379744893
+s875
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000523D3C7D000000000000019E
+t1379744893
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000523D3C7F00000000004D6390
+t1379744895
+s5071760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000523D3C810000000000A8EAD0
+t1379744897
+s11070160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c00000000523D3C82000000000063D6D0
+t1379744898
+s6543056
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000523D3C870000000002597C70
+t1379744903
+s39418992
+
+N/Users/zhaojunwei/Library/MobileDevice/Provisioning Profiles/72B4B5F8-A30C-4EF0-816A-0B124F6C9EDB.mobileprovision
+c000000005236E198000000000000304D
+t1379328408
+s12365
+
+N/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app
+t1381206812
+s544
+
+N/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app.dSYM
+t2
+s0
+
+N/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/Info.plist
+t1381206812
+s1343
+
+N/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/PkgInfo
+t1381206812
+s8
+
+N/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/ResourceRules.plist
+t1381206811
+s150
+
+N/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/embedded.mobileprovision
+t1381206812
+s12365
+
+N/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/en.lproj/InfoPlist.strings
+t1381206811
+s42
+
+N/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/en.lproj/ViewController.nib
+t1381206811
+s876
+
+N/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/nibView.nib
+t1381206812
+s136
+
+N/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/testNib
+t1381206811
+s143220
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/AppDelegate.o
+t1381206811
+s68292
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/ViewController.o
+t1381206811
+s42076
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/main.o
+t1381206811
+s3392
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNib
+t1381206811
+s61296
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNib.LinkFileList
+c0000000052538B1B00000000000001E4
+t1381206811
+s484
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNibView.o
+t1381206811
+s83220
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/AppDelegate.o
+t1381206811
+s68292
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/ViewController.o
+t1381206811
+s42076
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/main.o
+t1381206811
+s3392
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNib
+t1381206811
+s61300
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNib.LinkFileList
+c0000000052538B1B00000000000001E8
+t1381206811
+s488
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNibView.o
+t1381206811
+s83228
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/assetcatalog_dependencies.txt
+t1381206812
+s818
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/assetcatalog_generated_info.plist
+t1381206812
+s585
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/com.apple.build-tools.platform.validate
+t2
+s0
+
+N/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib.xcent
+t1381206812
+s408
+
+N/Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m
+c00000000522EE09500000000000008FF
+t1378803861
+s2303
+
+N/Users/zhaojunwei/localWork/testNib/testNib/Media.xcassets
+c00000000523EA97800000000000000EE
+t1379838328
+s238
+
+N/Users/zhaojunwei/localWork/testNib/testNib/ViewController.m
+c000000005249129100000000000002D5
+t1380520593
+s725
+
+N/Users/zhaojunwei/localWork/testNib/testNib/en.lproj/InfoPlist.strings
+c00000000522EE095000000000000002D
+t1378803861
+s45
+
+N/Users/zhaojunwei/localWork/testNib/testNib/en.lproj/ViewController.xib
+c00000000522EE0950000000000001782
+t1378803861
+s6018
+
+N/Users/zhaojunwei/localWork/testNib/testNib/main.m
+c00000000522EE0950000000000000150
+t1378803861
+s336
+
+N/Users/zhaojunwei/localWork/testNib/testNib/nibView.xib
+c00000000524017130000000000000CC2
+t1379931923
+s3266
+
+N/Users/zhaojunwei/localWork/testNib/testNib/testNib-Info.plist
+c00000000523E9D8000000000000004D9
+t1379835264
+s1241
+
+N/Users/zhaojunwei/localWork/testNib/testNib/testNib-Prefix.pch
+c00000000522EE095000000000000013D
+t1378803861
+s317
+
+N/Users/zhaojunwei/localWork/testNib/testNib/testNibView.m
+c0000000052479D96000000000000164E
+t1380425110
+s5710
+
+N/var/folders/9b/vr6nbs1n61s6nb3gfb2vnqgc0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/testNib-Prefix-fjmzhgedclozzfglxkenlqbwiyqk/testNib-Prefix.pch.pch
+t1381206647
+s5285912
+
+N/var/folders/9b/vr6nbs1n61s6nb3gfb2vnqgc0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/testNib-Prefix-gxmvihxfjefwgzbtgazgvvkzszzt/testNib-Prefix.pch.pch
+t1381206647
+s5285784
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesf391349bc203b841^800b5a9bc203b841^---0#1#1#--18"Check dependencies36"8F38C319-5757-4569-A839-47C95CC7F4F1-
+
+CCodeSign /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app
+s402899612.107749
+e402899612.313644
+r1
+xCodeSign
+x/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"[1mCodeSign[0m [1mbuild/Release-iphoneos/testNib.app[0m59"[1mCodeSign[0m [1mbuild/Release-iphoneos/testNib.app[0m18b51b9cc203b841^064c509cc203b841^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/0000000000000000^978"[1mCodeSign[0m [1mbuild/Release-iphoneos/testNib.app[0m    cd /Users/zhaojunwei/localWork/testNib    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    Using code signing identity "iPhone Developer: Yirong Xu (S66Q5B96A4)" and provisioning profile "iOS Team Provisioning Profile: *" (72B4B5F8-A30C-4EF0-816A-0B124F6C9EDB)    codesign --force --sign 01E5AEB0AD568104086D17D55DA9BF732BC4E8F5 --resource-rules=/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/ResourceRules.plist --entitlements /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib.xcent /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app36"C8F423D5-D93C-4DCC-B58C-2389A539524D-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CCompileAssetCatalog /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app /Users/zhaojunwei/localWork/testNib/testNib/Media.xcassets
+s402899611.679420
+e402899612.065028
+r1
+xCompileAssetCatalog
+x/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app
+x/Users/zhaojunwei/localWork/testNib/testNib/Media.xcassets
+o/* com.apple.actool.document.warnings */
+o/Users/zhaojunwei/localWork/testNib/testNib/Media.xcassets:./coupon_bg_normal.imageset/[iphone][][1x]: warning: Resizable images require a minimum deployment target of iOS 7.0.
+o/Users/zhaojunwei/localWork/testNib/testNib/Media.xcassets:./coupon_bg_normal.imageset/[iphone][][2x]: warning: Resizable images require a minimum deployment target of iOS 7.0.
+o/* com.apple.actool.compilation-results */
+o/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/LaunchImage-700-568h@2x.png
+o/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/LaunchImage-568h@2x.png
+o/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/Default~iphone.png
+o/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/Default@2x~iphone.png
+o/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/Default-568h@2x~iphone.png
+o/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/coupon_bg_normal~iphone.png
+o/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/coupon_bg_normal@2x~iphone.png
+o/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"[1mCompileAssetCatalog[0m build/Release-iphoneos/testNib.app [1mtestNib/Media.xcassets[0m93"[1mCompileAssetCatalog[0m build/Release-iphoneos/testNib.app [1mtestNib/Media.xcassets[0m0401ae9bc203b841^2a52159cc203b841^-1236"/* com.apple.actool.document.warnings *//Users/zhaojunwei/localWork/testNib/testNib/Media.xcassets:./coupon_bg_normal.imageset/[iphone][][1x]: warning: Resizable images require a minimum deployment target of iOS 7.0./Users/zhaojunwei/localWork/testNib/testNib/Media.xcassets:./coupon_bg_normal.imageset/[iphone][][2x]: warning: Resizable images require a minimum deployment target of iOS 7.0./* com.apple.actool.compilation-results *//Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/LaunchImage-700-568h@2x.png/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/LaunchImage-568h@2x.png/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/Default~iphone.png/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/Default@2x~iphone.png/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/Default-568h@2x~iphone.png/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/coupon_bg_normal~iphone.png/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/coupon_bg_normal@2x~iphone.png/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/assetcatalog_generated_info.plist2(21%IDEActivityLogMessage2@64"Resizable images require a minimum deployment target of iOS 7.0.-402899612#18446744073709551615#0#-1#-23%DVTTextDocumentLocation3@75"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/Media.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--2@64"Resizable images require a minimum deployment target of iOS 7.0.-402899612#18446744073709551615#0#-1#-3@75"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/Media.xcassets/0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#30"Asset Catalog Compiler Warning--0#0#1#-19%DVTDocumentLocation4@75"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/Media.xcassets/0000000000000000^1027"[1mCompileAssetCatalog[0m build/Release-iphoneos/testNib.app [1mtestNib/Media.xcassets[0m    cd /Users/zhaojunwei/localWork/testNib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphoneos --minimum-deployment-target 6.1 --target-device iphone --compress-pngs --compile /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app /Users/zhaojunwei/localWork/testNib/testNib/Media.xcassets36"6A2627C1-46C6-4F04-8D19-2D084F3A2111-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/AppDelegate.o /Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402899611.369089
+e402899611.458497
+r1
+xCompileC
+xbuild/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/AppDelegate.o
+x/Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m
+d/Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.h
+d/Users/zhaojunwei/localWork/testNib/testNib/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m201"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/AppDelegate.o [1mtestNib/AppDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler23a45e9bc203b841^9a7a759bc203b841^---0#0#1#-19%DVTDocumentLocation2@73"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m0000000000000000^3259"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/AppDelegate.o [1mtestNib/AppDelegate.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaojunwei/localWork/testNib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-generated-files.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-own-target-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-all-target-headers.hmap -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-project-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources/armv7 -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources -F/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9b/vr6nbs1n61s6nb3gfb2vnqgc0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/testNib-Prefix-gxmvihxfjefwgzbtgazgvvkzszzt/testNib-Prefix.pch -MMD -MT dependencies -MF /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/AppDelegate.d --serialize-diagnostics /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/AppDelegate.dia -c /Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m -o /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/AppDelegate.o36"531A2216-60F6-4683-8BBA-6EE950B720E3-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/ViewController.o /Users/zhaojunwei/localWork/testNib/testNib/ViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402899611.369136
+e402899611.443469
+r1
+xCompileC
+xbuild/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/ViewController.o
+x/Users/zhaojunwei/localWork/testNib/testNib/ViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaojunwei/localWork/testNib/testNib/ViewController.m
+d/Users/zhaojunwei/localWork/testNib/testNib/ViewController.h
+d/Users/zhaojunwei/localWork/testNib/testNib/testNibView.h
+o[1m/Users/zhaojunwei/localWork/testNib/testNib/ViewController.m:22:14: [0m[0;1;35mwarning: [0m[1m
+o      unused variable 'array' [-Wunused-variable][0m
+o    NSArray *array = [[NSBundle mainBundle] loadNibNamed:@"nibView" owne...
+o[0;1;32m             ^
+o[0m1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/zhaojunwei/localWork/testNib/testNib/ViewController.m207"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/ViewController.o [1mtestNib/ViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler2ba65e9bc203b841^a7cc719bc203b841^-282"[1m/Users/zhaojunwei/localWork/testNib/testNib/ViewController.m:22:14: [0m[0;1;35mwarning: [0m[1m      unused variable 'array' [-Wunused-variable][0m    NSArray *array = [[NSBundle mainBundle] loadNibNamed:@"nibView" owne...[0;1;32m             ^[0m1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@23"Unused variable 'array'-402899611#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/ViewController.m0000000000000000^21#13#21#13#393#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@76"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/ViewController.m0000000000000000^3277"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/ViewController.o [1mtestNib/ViewController.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaojunwei/localWork/testNib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-generated-files.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-own-target-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-all-target-headers.hmap -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-project-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources/armv7 -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources -F/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9b/vr6nbs1n61s6nb3gfb2vnqgc0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/testNib-Prefix-gxmvihxfjefwgzbtgazgvvkzszzt/testNib-Prefix.pch -MMD -MT dependencies -MF /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/ViewController.d --serialize-diagnostics /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/ViewController.dia -c /Users/zhaojunwei/localWork/testNib/testNib/ViewController.m -o /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/ViewController.o36"0F5BF103-0FDC-4387-9165-7D943640796A-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/main.o /Users/zhaojunwei/localWork/testNib/testNib/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402899611.369109
+e402899611.402826
+r1
+xCompileC
+xbuild/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/main.o
+x/Users/zhaojunwei/localWork/testNib/testNib/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaojunwei/localWork/testNib/testNib/main.m
+d/Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/zhaojunwei/localWork/testNib/testNib/main.m187"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/main.o [1mtestNib/main.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler23a05e9bc203b841^b039679bc203b841^---0#0#1#-19%DVTDocumentLocation2@66"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/main.m0000000000000000^3217"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/main.o [1mtestNib/main.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaojunwei/localWork/testNib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-generated-files.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-own-target-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-all-target-headers.hmap -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-project-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources/armv7 -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources -F/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9b/vr6nbs1n61s6nb3gfb2vnqgc0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/testNib-Prefix-gxmvihxfjefwgzbtgazgvvkzszzt/testNib-Prefix.pch -MMD -MT dependencies -MF /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/main.dia -c /Users/zhaojunwei/localWork/testNib/testNib/main.m -o /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/main.o36"5182DC45-266F-4C41-8EDB-1166406DAF2A-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNibView.o /Users/zhaojunwei/localWork/testNib/testNib/testNibView.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402899611.369758
+e402899611.527967
+r1
+xCompileC
+xbuild/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNibView.o
+x/Users/zhaojunwei/localWork/testNib/testNib/testNibView.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaojunwei/localWork/testNib/testNib/testNibView.m
+d/Users/zhaojunwei/localWork/testNib/testNib/testNibView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/zhaojunwei/localWork/testNib/testNib/testNibView.m201"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNibView.o [1mtestNib/testNibView.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler27c25e9bc203b841^022b879bc203b841^---0#0#1#-19%DVTDocumentLocation2@73"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/testNibView.m0000000000000000^3259"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNibView.o [1mtestNib/testNibView.m[0m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaojunwei/localWork/testNib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-generated-files.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-own-target-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-all-target-headers.hmap -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-project-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources/armv7 -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources -F/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9b/vr6nbs1n61s6nb3gfb2vnqgc0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/testNib-Prefix-gxmvihxfjefwgzbtgazgvvkzszzt/testNib-Prefix.pch -MMD -MT dependencies -MF /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNibView.d --serialize-diagnostics /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNibView.dia -c /Users/zhaojunwei/localWork/testNib/testNib/testNibView.m -o /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNibView.o36"08C418B4-0B7B-4162-834E-1718F681FF8F-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/AppDelegate.o /Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402899611.437081
+e402899611.528220
+r1
+xCompileC
+xbuild/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/AppDelegate.o
+x/Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m
+d/Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.h
+d/Users/zhaojunwei/localWork/testNib/testNib/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m203"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/AppDelegate.o [1mtestNib/AppDelegate.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilercb13709bc203b841^de55879bc203b841^---0#0#1#-19%DVTDocumentLocation2@73"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m0000000000000000^3266"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/AppDelegate.o [1mtestNib/AppDelegate.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaojunwei/localWork/testNib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-generated-files.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-own-target-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-all-target-headers.hmap -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-project-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources/armv7s -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources -F/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9b/vr6nbs1n61s6nb3gfb2vnqgc0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/testNib-Prefix-fjmzhgedclozzfglxkenlqbwiyqk/testNib-Prefix.pch -MMD -MT dependencies -MF /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/AppDelegate.d --serialize-diagnostics /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/AppDelegate.dia -c /Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.m -o /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/AppDelegate.o36"AB26E0C5-AB24-4CAC-AFF9-E3963C74C26C-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/ViewController.o /Users/zhaojunwei/localWork/testNib/testNib/ViewController.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402899611.445082
+e402899611.521921
+r1
+xCompileC
+xbuild/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/ViewController.o
+x/Users/zhaojunwei/localWork/testNib/testNib/ViewController.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaojunwei/localWork/testNib/testNib/ViewController.m
+d/Users/zhaojunwei/localWork/testNib/testNib/ViewController.h
+d/Users/zhaojunwei/localWork/testNib/testNib/testNibView.h
+o[1m/Users/zhaojunwei/localWork/testNib/testNib/ViewController.m:22:14: [0m[0;1;35mwarning: [0m[1m
+o      unused variable 'array' [-Wunused-variable][0m
+o    NSArray *array = [[NSBundle mainBundle] loadNibNamed:@"nibView" owne...
+o[0;1;32m             ^
+o[0m1 warning generated.
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection68"Compile /Users/zhaojunwei/localWork/testNib/testNib/ViewController.m209"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/ViewController.o [1mtestNib/ViewController.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compilera819729bc203b841^6b9c859bc203b841^-282"[1m/Users/zhaojunwei/localWork/testNib/testNib/ViewController.m:22:14: [0m[0;1;35mwarning: [0m[1m      unused variable 'array' [-Wunused-variable][0m    NSArray *array = [[NSBundle mainBundle] loadNibNamed:@"nibView" owne...[0;1;32m             ^[0m1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@23"Unused variable 'array'-402899611#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@76"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/ViewController.m0000000000000000^21#13#21#13#393#0#19"Unused Entity Issue--0#0#1#-19%DVTDocumentLocation4@76"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/ViewController.m0000000000000000^3284"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/ViewController.o [1mtestNib/ViewController.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaojunwei/localWork/testNib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-generated-files.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-own-target-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-all-target-headers.hmap -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-project-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources/armv7s -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources -F/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9b/vr6nbs1n61s6nb3gfb2vnqgc0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/testNib-Prefix-fjmzhgedclozzfglxkenlqbwiyqk/testNib-Prefix.pch -MMD -MT dependencies -MF /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/ViewController.d --serialize-diagnostics /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/ViewController.dia -c /Users/zhaojunwei/localWork/testNib/testNib/ViewController.m -o /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/ViewController.o36"B70FDB07-052F-49B1-AB16-43BBF91598AC-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/main.o /Users/zhaojunwei/localWork/testNib/testNib/main.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402899611.404249
+e402899611.435604
+r1
+xCompileC
+xbuild/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/main.o
+x/Users/zhaojunwei/localWork/testNib/testNib/main.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaojunwei/localWork/testNib/testNib/main.m
+d/Users/zhaojunwei/localWork/testNib/testNib/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection58"Compile /Users/zhaojunwei/localWork/testNib/testNib/main.m189"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/main.o [1mtestNib/main.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler52d6679bc203b841^ed9b6f9bc203b841^---0#0#1#-19%DVTDocumentLocation2@66"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/main.m0000000000000000^3224"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/main.o [1mtestNib/main.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaojunwei/localWork/testNib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-generated-files.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-own-target-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-all-target-headers.hmap -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-project-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources/armv7s -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources -F/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9b/vr6nbs1n61s6nb3gfb2vnqgc0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/testNib-Prefix-fjmzhgedclozzfglxkenlqbwiyqk/testNib-Prefix.pch -MMD -MT dependencies -MF /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/main.d --serialize-diagnostics /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/main.dia -c /Users/zhaojunwei/localWork/testNib/testNib/main.m -o /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/main.o36"60EEE59B-6A03-47B0-A6A5-B773C81A1BAD-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CCompileC build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNibView.o /Users/zhaojunwei/localWork/testNib/testNib/testNibView.m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s402899611.460153
+e402899611.576972
+r1
+xCompileC
+xbuild/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNibView.o
+x/Users/zhaojunwei/localWork/testNib/testNib/testNibView.m
+xnormal
+xarmv7s
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaojunwei/localWork/testNib/testNib/testNibView.m
+d/Users/zhaojunwei/localWork/testNib/testNib/testNibView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/zhaojunwei/localWork/testNib/testNib/testNibView.m203"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNibView.o [1mtestNib/testNibView.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler17f5759bc203b841^b3b4939bc203b841^---0#0#1#-19%DVTDocumentLocation2@73"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/testNibView.m0000000000000000^3266"[1mCompileC[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNibView.o [1mtestNib/testNibView.m[0m normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaojunwei/localWork/testNib    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7s -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wno-bool-conversion -Wenum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -miphoneos-version-min=6.1 -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-generated-files.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-own-target-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-all-target-headers.hmap -iquote /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib-project-headers.hmap -I/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources/armv7s -I/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/DerivedSources -F/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos -DNS_BLOCK_ASSERTIONS=1 -include /var/folders/9b/vr6nbs1n61s6nb3gfb2vnqgc0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/testNib-Prefix-fjmzhgedclozzfglxkenlqbwiyqk/testNib-Prefix.pch -MMD -MT dependencies -MF /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNibView.d --serialize-diagnostics /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNibView.dia -c /Users/zhaojunwei/localWork/testNib/testNib/testNibView.m -o /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNibView.o36"F643E4F3-D1DD-488B-B1E6-C4051A5296CD-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CCompileXIB /Users/zhaojunwei/localWork/testNib/testNib/en.lproj/ViewController.xib
+s402899611.677826
+e402899611.974658
+r1
+xCompileXIB
+x/Users/zhaojunwei/localWork/testNib/testNib/en.lproj/ViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compiling /Users/zhaojunwei/localWork/testNib/testNib/en.lproj/ViewController.xib62"[1mCompileXIB[0m [1mtestNib/en.lproj/ViewController.xib[0m2998ad9bc203b841^1689f99bc203b841^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/en.lproj/ViewController.xib0000000000000000^740"[1mCompileXIB[0m [1mtestNib/en.lproj/ViewController.xib[0m    cd /Users/zhaojunwei/localWork/testNib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.1 --output-format human-readable-text --compile /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/en.lproj/ViewController.nib /Users/zhaojunwei/localWork/testNib/testNib/en.lproj/ViewController.xib36"3EFA012F-39C1-440F-AFB6-D97AB1D72154-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CCompileXIB /Users/zhaojunwei/localWork/testNib/testNib/nibView.xib
+s402899611.678263
+e402899612.011938
+r1
+xCompileXIB
+x/Users/zhaojunwei/localWork/testNib/testNib/nibView.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compiling /Users/zhaojunwei/localWork/testNib/testNib/nibView.xib46"[1mCompileXIB[0m [1mtestNib/nibView.xib[0mf2b3ad9bc203b841^5723039cc203b841^---0#0#1#-19%DVTDocumentLocation2@71"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/nibView.xib0000000000000000^692"[1mCompileXIB[0m [1mtestNib/nibView.xib[0m    cd /Users/zhaojunwei/localWork/testNib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 6.1 --output-format human-readable-text --compile /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/nibView.nib /Users/zhaojunwei/localWork/testNib/testNib/nibView.xib36"D6518824-863E-4609-89F8-9EF97F0A4C64-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CCopyStringsFile /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/en.lproj/InfoPlist.strings testNib/en.lproj/InfoPlist.strings
+s402899611.677838
+e402899611.681314
+r1
+xCopyStringsFile
+x/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/en.lproj/InfoPlist.strings
+xtestNib/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection39"Copy testNib/en.lproj/InfoPlist.strings120"[1mCopyStringsFile[0m build/Release-iphoneos/testNib.app/en.lproj/InfoPlist.strings testNib/en.lproj/InfoPlist.stringsa59ead9bc203b841^0e6bae9bc203b841^---0#0#1#-19%DVTDocumentLocation2@86"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/en.lproj/InfoPlist.strings0000000000000000^575"[1mCopyStringsFile[0m build/Release-iphoneos/testNib.app/en.lproj/InfoPlist.strings testNib/en.lproj/InfoPlist.strings    cd /Users/zhaojunwei/localWork/testNib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/en.lproj -- testNib/en.lproj/InfoPlist.strings36"A1D2AAE0-C116-4AD2-8A33-9D6B3475869D-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Release-iphoneos/testNib.app/ResourceRules.plist
+s402899611.355897
+e402899611.358605
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist
+xbuild/Release-iphoneos/testNib.app/ResourceRules.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"Copy build/Release-iphoneos/testNib.app/ResourceRules.plist195"[1mCpResource[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Release-iphoneos/testNib.app/ResourceRules.plist7a365b9bc203b841^36cd5b9bc203b841^---0#0#1#-19%DVTDocumentLocation2@106"file://localhost/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/ResourceRules.plist0048989a4df7df42^873"[1mCpResource[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist build/Release-iphoneos/testNib.app/ResourceRules.plist    cd /Users/zhaojunwei/localWork/testNib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -strip-debug-symbols -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip -resolve-src-symlinks /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/ResourceRules.plist /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app36"B72F394E-27C9-47D7-9373-B731D7CF49E6-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CCreateUniversalBinary /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/testNib normal armv7\ armv7s
+s402899611.624776
+e402899611.633832
+r1
+xCreateUniversalBinary
+x/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/testNib
+xnormal
+xarmv7 armv7s
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Create universal binary /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/testNib101"[1mCreateUniversalBinary[0m [1mbuild/Release-iphoneos/testNib.app/testNib[0m normal armv7\ armv7s0806a09bc203b841^1343a29bc203b841^---0#0#1#-19%DVTDocumentLocation2@94"file://localhost/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/testNib0038b4feddffdf42^685"[1mCreateUniversalBinary[0m [1mbuild/Release-iphoneos/testNib.app/testNib[0m normal armv7\ armv7s    cd /Users/zhaojunwei/localWork/testNib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    lipo -create /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNib /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNib -output /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/testNib36"45C2C1CB-ECA0-4F83-9F93-7F4089F20196-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CGenerateDSYMFile /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app.dSYM /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/testNib
+s402899611.642881
+e402899611.669191
+r1
+xGenerateDSYMFile
+x/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app.dSYM
+x/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/testNib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Generate /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app.dSYM115"[1mGenerateDSYMFile[0m [1mbuild/Release-iphoneos/testNib.app.dSYM[0m build/Release-iphoneos/testNib.app/testNibebaaa49bc203b841^7f50ab9bc203b841^---0#0#1#-19%DVTDocumentLocation2@91"file://localhost/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app.dSYM0038b4feddffdf42^620"[1mGenerateDSYMFile[0m [1mbuild/Release-iphoneos/testNib.app.dSYM[0m build/Release-iphoneos/testNib.app/testNib    cd /Users/zhaojunwei/localWork/testNib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/testNib -o /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app.dSYM36"B36A59FA-1AA6-4155-B0EC-9F5C449B66E5-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CLd /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNib normal armv7
+s402899611.585616
+e402899611.615778
+r1
+xLd
+x/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNib
+xnormal
+xarmv7
+d/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNib.LinkFileList
+d/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/main.o
+d/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/AppDelegate.o
+d/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/ViewController.o
+d/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNibView.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection120"Link /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNib103"[1mLd[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNib normal armv75c00969bc203b841^8ba49d9bc203b841^---0#0#1#--1319"[1mLd[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNib normal armv7    cd /Users/zhaojunwei/localWork/testNib    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos -F/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos -filelist /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNib.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNib_dependency_info.dat -o /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7/testNib36"28B44C04-722C-436C-9386-5A678AF09725-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CLd /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNib normal armv7s
+s402899611.585613
+e402899611.616587
+r1
+xLd
+x/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNib
+xnormal
+xarmv7s
+d/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNib.LinkFileList
+d/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/main.o
+d/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/AppDelegate.o
+d/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/ViewController.o
+d/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNibView.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.0/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libsystem_stats.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNib105"[1mLd[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNib normal armv7s87fe959bc203b841^3cd99d9bc203b841^---0#0#1#--1325"[1mLd[0m build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNib normal armv7s    cd /Users/zhaojunwei/localWork/testNib    setenv IPHONEOS_DEPLOYMENT_TARGET 6.1    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7s -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk -L/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos -F/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos -filelist /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNib.LinkFileList -dead_strip -fobjc-arc -fobjc-link-runtime -miphoneos-version-min=6.1 -framework QuartzCore -framework UIKit -framework Foundation -framework CoreGraphics -Xlinker -dependency_info -Xlinker /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNib_dependency_info.dat -o /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/Objects-normal/armv7s/testNib36"D20489D6-5A81-4A49-B77C-79D8165C5FDF-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CProcessInfoPlistFile /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/Info.plist /Users/zhaojunwei/localWork/testNib/testNib/testNib-Info.plist
+s402899612.073324
+e402899612.076356
+r1
+xProcessInfoPlistFile
+x/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/Info.plist
+x/Users/zhaojunwei/localWork/testNib/testNib/testNib-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection70"Process /Users/zhaojunwei/localWork/testNib/testNib/testNib-Info.plist109"[1mProcessInfoPlistFile[0m build/Release-iphoneos/testNib.app/Info.plist [1mtestNib/testNib-Info.plist[0mcade129cc203b841^035b159cc203b841^---0#0#1#-19%DVTDocumentLocation2@78"file://localhost/Users/zhaojunwei/localWork/testNib/testNib/testNib-Info.plist0000000000000000^933"[1mProcessInfoPlistFile[0m build/Release-iphoneos/testNib.app/Info.plist [1mtestNib/testNib-Info.plist[0m    cd /Users/zhaojunwei/localWork/testNib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-infoPlistUtility /Users/zhaojunwei/localWork/testNib/testNib/testNib-Info.plist -genpkginfo /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/ResourceRules.plist -additionalcontentfile /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/assetcatalog_generated_info.plist -o /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/Info.plist36"291554B1-C8F5-413B-81F3-3E5CB150F69D-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CProcessPCH /var/folders/9b/vr6nbs1n61s6nb3gfb2vnqgc0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/testNib-Prefix-fjmzhgedclozzfglxkenlqbwiyqk/testNib-Prefix.pch.pch testNib/testNib-Prefix.pch normal armv7s objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessPCH /var/folders/9b/vr6nbs1n61s6nb3gfb2vnqgc0000gn/C/com.apple.DeveloperTools/5.0-5A1413/Xcode/SharedPrecompiledHeaders/testNib-Prefix-gxmvihxfjefwgzbtgazgvvkzszzt/testNib-Prefix.pch.pch testNib/testNib-Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib.xcent
+s402899612.096731
+e402899612.099477
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist
+x/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib.xcent
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection225"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist [1mbuild/testNib.build/Release-iphoneos/testNib.build/testNib.xcent[0m225"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist [1mbuild/testNib.build/Release-iphoneos/testNib.build/testNib.xcent[0mc2da189cc203b841^c977199cc203b841^---0#0#1#-19%DVTDocumentLocation2@116"file://localhost/Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib.xcent0038b4feddffdf42^759"[1mProcessProductPackaging[0m /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist [1mbuild/testNib.build/Release-iphoneos/testNib.build/testNib.xcent[0m    cd /Users/zhaojunwei/localWork/testNib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS7.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/zhaojunwei/localWork/testNib/build/testNib.build/Release-iphoneos/testNib.build/testNib.xcent36"98991550-3654-4553-8622-5F2698DAE896-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CProcessProductPackaging /Users/zhaojunwei/Library/MobileDevice/Provisioning\ Profiles/72B4B5F8-A30C-4EF0-816A-0B124F6C9EDB.mobileprovision /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/embedded.mobileprovision
+s402899612.084715
+e402899612.087020
+r1
+xProcessProductPackaging
+x/Users/zhaojunwei/Library/MobileDevice/Provisioning Profiles/72B4B5F8-A30C-4EF0-816A-0B124F6C9EDB.mobileprovision
+x/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/embedded.mobileprovision
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection214"[1mProcessProductPackaging[0m /Users/zhaojunwei/Library/MobileDevice/Provisioning\ Profiles/72B4B5F8-A30C-4EF0-816A-0B124F6C9EDB.mobileprovision [1mbuild/Release-iphoneos/testNib.app/embedded.mobileprovision[0m214"[1mProcessProductPackaging[0m /Users/zhaojunwei/Library/MobileDevice/Provisioning\ Profiles/72B4B5F8-A30C-4EF0-816A-0B124F6C9EDB.mobileprovision [1mbuild/Release-iphoneos/testNib.app/embedded.mobileprovision[0mcec7159cc203b841^d576179cc203b841^---0#0#1#-19%DVTDocumentLocation2@111"file://localhost/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/embedded.mobileprovision0038b4feddffdf42^711"[1mProcessProductPackaging[0m /Users/zhaojunwei/Library/MobileDevice/Provisioning\ Profiles/72B4B5F8-A30C-4EF0-816A-0B124F6C9EDB.mobileprovision [1mbuild/Release-iphoneos/testNib.app/embedded.mobileprovision[0m    cd /Users/zhaojunwei/localWork/testNib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    builtin-productPackagingUtility /Users/zhaojunwei/Library/MobileDevice/Provisioning\ Profiles/72B4B5F8-A30C-4EF0-816A-0B124F6C9EDB.mobileprovision -o /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/embedded.mobileprovision36"75DBF647-B212-4273-BF62-AF0BCF388627-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
+CTouch /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app
+r0
+
+CValidate /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app
+s402899612.322380
+e402899612.352340
+r1
+xValidate
+x/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection59"[1mValidate[0m [1mbuild/Release-iphoneos/testNib.app[0m59"[1mValidate[0m [1mbuild/Release-iphoneos/testNib.app[0m459c529cc203b841^a8345a9cc203b841^---0#0#1#-19%DVTDocumentLocation2@87"file://localhost/Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app/0000000000000000^540"[1mValidate[0m [1mbuild/Release-iphoneos/testNib.app[0m    cd /Users/zhaojunwei/localWork/testNib    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    setenv PRODUCT_TYPE com.apple.product-type.application    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/Validation /Users/zhaojunwei/localWork/testNib/build/Release-iphoneos/testNib.app36"6A61EA20-7A55-477B-84CF-70C263FDB37B-
+bEF98EEDD-1CCB-42B0-888E-EAC73F34BBE1
+
