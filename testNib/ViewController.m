@@ -19,8 +19,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    
-    [self.view addSubview:[[[NSBundle mainBundle] loadNibNamed:@"nibView" owner:nil options:nil] lastObject]];
+    NSArray *array = [[NSBundle mainBundle] loadNibNamed:@"nibView" owner:nil options:nil];
+    [self.view addSubview:[[[NSBundle mainBundle] loadNibNamed:@"nibView" owner:nil options:nil] objectAtIndex:0]];
 }
 
 - (void)didReceiveMemoryWarning
