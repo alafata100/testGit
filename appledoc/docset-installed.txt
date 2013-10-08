@@ -1,0 +1,4 @@
+Documentation set was installed to Xcode!
+
+Path: /Users/zhaojunwei/Library/Developer/Shared/Documentation/DocSets/com.jwzhao.testNib.docset
+Time: 2013-09-29 03:25:12 +0000

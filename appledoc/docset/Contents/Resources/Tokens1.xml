@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tokens version="1.0">
+	<File path="Classes/testNibView.html">
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/cl/testNibView</TokenIdentifier>
+			<Abstract type="html">testNibView</Abstract>
+			<DeclaredIn>testNibView.h</DeclaredIn>
+            
+			
+			<NodeRef refid="1"/>
+		</Token>
+		
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/testNibView/setIsShowed:</TokenIdentifier>
+			<Abstract type="html">isShowed</Abstract>
+			<DeclaredIn>testNibView.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) BOOL isShowed</Declaration>
+			
+			
+			<Anchor>//api/name/isShowed</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/testNibView/isShowed</TokenIdentifier>
+			<Abstract type="html">isShowed</Abstract>
+			<DeclaredIn>testNibView.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) BOOL isShowed</Declaration>
+			
+			
+			<Anchor>//api/name/isShowed</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instp/testNibView/isShowed</TokenIdentifier>
+			<Abstract type="html">isShowed</Abstract>
+			<DeclaredIn>testNibView.h</DeclaredIn>
+			
+			<Declaration>@property (nonatomic, assign) BOOL isShowed</Declaration>
+			
+			
+			<Anchor>//api/name/isShowed</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+		<Token>
+			<TokenIdentifier>//apple_ref/occ/instm/testNibView/testAnimation</TokenIdentifier>
+			<Abstract type="html">testAnimation</Abstract>
+			<DeclaredIn>testNibView.m</DeclaredIn>
+			
+			<Declaration>- (void)testAnimation</Declaration>
+			
+			
+			<Anchor>//api/name/testAnimation</Anchor>
+            <NodeRef refid="1"/>
+		</Token>
+		
+        
+	</File>
+</Tokens>
